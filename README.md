@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.imgur.com/K1L9s3H.png" alt="Profile Banner" width="100%"/>
   <h1><b>MARC JEILLORD D.C. ESTEBAN</b></h1>
   <h3>FULL-STACK WEB DEVELOPER | BASIC ANDROID APP DEVELOPER</h3>
   <p>
     <a href="https://linkedin.com/in/marc-esteban-b97217324" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:marcdelacruzesteban@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <img alt="Contact" src="https://img.shields.io/badge/Phone-09934528204-blue?style=for-the-badge&logo=google-messages&logoColor=white">
   </p>
 </div>
 
@@ -37,7 +37,7 @@ Here are the technologies I work with:
 
 #### **Thesis Project Lead | AI-Powered Personalized Learning Assistant** `2024-2025`
 Spearheaded the development of a school-approved AI-Powered Personalized Learning Assistant.
-- **Key Features:** Generated customized reviewers, tracked performance via quizzes, and provided tools like an AI study planner, summarizer, and flashcard generator.
+- **Key Features:** Generated customized reviewers for exams and quizzes, tracked performance via quizzes, and provided tools like an AI study planner, summarizer, and flashcard generator.
 - **Admin Tools:** Implemented features for student performance monitoring, video-to-text conversion, AI lesson planning, and automated generation of machine problems and quizzes.
 - **Tech Stack:** PHP, MySQL, HTML, CSS, Bootstrap, and Google Gemini AI.
 
