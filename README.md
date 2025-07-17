@@ -3,6 +3,7 @@
   <h3>FULL-STACK WEB DEVELOPER | BASIC ANDROID APP DEVELOPER</h3>
   <p>
     <a href="https://linkedin.com/in/marc-esteban-b97217324" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://cs42a.com/portfolio/marc-dev-portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3B7EBF?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
     <a href="mailto:marcdelacruzesteban@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <img alt="Contact" src="https://img.shields.io/badge/Phone-09934528204-blue?style=for-the-badge&logo=google-messages&logoColor=white">
   </p>
