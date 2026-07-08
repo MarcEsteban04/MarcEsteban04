@@ -24,45 +24,39 @@ Building scalable web applications, business systems, and AI-powered products.
 
 ## About
 
-I specialize in building modern web applications, internal business platforms, and AI-powered solutions.
+I build modern web applications, internal business platforms, and AI-powered software with a focus on scalability, maintainability, and user experience.
 
-My focus is on writing maintainable code, designing scalable systems, and delivering products that solve real business problems.
+My work spans full-stack development—from frontend interfaces to backend architecture, APIs, databases, and AI integrations.
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,tailwind,supabase,mysql,mongodb,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,tailwind,supabase,mysql,mongodb,vercel,git,vscode" />
+</p>
+
+### AI & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## Areas of Focus
+## Expertise
 
-- Full-Stack Web Development
+- Full-Stack Web Applications
 - Business & ERP Systems
 - AI Integrations & Automation
 - REST APIs
-- Performance & Scalability
+- Database Design
+- System Architecture
+- Performance Optimization
 - Developer Experience
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcEsteban04&show_icons=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcEsteban04&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## Selected Technologies
-
-| Frontend | Backend | Database | Tools |
-|----------|----------|----------|-------|
-| React | Node.js | Supabase | Git |
-| Next.js | Express | MySQL | GitHub |
-| TypeScript | PHP | MongoDB | OpenAI API |
-| Tailwind CSS | REST APIs | PostgreSQL | Vercel |
+> *Building software that solves real business problems with clean, maintainable code.*
