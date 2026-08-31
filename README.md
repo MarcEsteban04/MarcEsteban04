@@ -2,9 +2,7 @@
 
 # Marc Esteban
 
-**Full-Stack Web Developer**
-
-Building scalable web applications, business systems, and AI-powered products.
+**Full-Stack Developer**
 
 <p>
   <a href="https://www.linkedin.com/in/marc-esteban">
@@ -13,30 +11,27 @@ Building scalable web applications, business systems, and AI-powered products.
   <a href="https://cs42a.com/marc-dev-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-3B7EBF?style=flat-square"/>
   </a>
-  <a href="mailto:marcdelacruzesteban@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 </div>
 
----
+## About Me
 
-## About
-
-I build modern web applications, internal business platforms, and AI-powered software with a focus on scalability, maintainability, and user experience.
-
-My work spans full-stack development—from frontend interfaces to backend architecture, APIs, databases, and AI integrations.
-
----
+I'm a Full-Stack Developer working with modern web and mobile technologies, building web applications, internal tools, business systems, and AI-powered features.
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,tailwind,supabase,mysql,mongodb,vercel,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,tailwind,supabase,mysql,mongodb,flutter,dart,vercel,git,vscode" />
 </p>
 
-### AI & Developer Tools
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+**Mobile:** Flutter, Dart, React Native
+**Backend:** Node.js, Express, PHP
+**Database & Backend Services:** Supabase, MySQL, MongoDB
+**Tools & Deployment:** Git, Vercel, VS Code
+
+## AI & Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -46,17 +41,4 @@ My work spans full-stack development—from frontend interfaces to backend archi
 
 ---
 
-## Expertise
-
-- Full-Stack Web Applications
-- Business & ERP Systems
-- AI Integrations & Automation
-- REST APIs
-- Database Design
-- System Architecture
-- Performance Optimization
-- Developer Experience
-
----
-
-> *Building software that solves real business problems with clean, maintainable code.*
+> Building and shipping software.
