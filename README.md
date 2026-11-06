@@ -1,34 +1,31 @@
-<div align="center">
 
-# Marc Esteban
+# Hey, welcome to my GitHub!
 
-**Full-Stack Developer**
+I'm **Marc Esteban**, a Full-Stack Developer who enjoys turning ideas into functional applications and exploring what technology can do.
 
-<p>
-  <a href="https://www.linkedin.com/in/marc-esteban">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://cs42a.com/marc-dev-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-3B7EBF?style=flat-square"/>
-  </a>
-</p>
+I like experimenting with different technologies, building personal projects, and finding creative ways to solve problems through code.
 
-</div>
+## A Little About Me
 
-## About Me
+- I enjoy working on web and mobile applications.
+- I'm interested in AI, LLMs, and automation.
+- I like experimenting with new tools, technologies, and project ideas.
+- Outside of coding, I enjoy gaming and exploring new interests.
 
-I'm a Full-Stack Developer working with modern web and mobile technologies, building web applications, internal tools, business systems, and AI-powered features.
-
-## Tech Stack
+## Technologies I Work With
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,tailwind,supabase,mysql,mongodb,flutter,dart,vercel,git,vscode" />
 </p>
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+
 **Mobile:** Flutter, Dart, React Native
+
 **Backend:** Node.js, Express, PHP
+
 **Database & Backend Services:** Supabase, MySQL, MongoDB
+
 **Tools & Deployment:** Git, Vercel, VS Code
 
 ## AI & Developer Tools
@@ -39,6 +36,11 @@ I'm a Full-Stack Developer working with modern web and mobile technologies, buil
   <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
+## Find Me Here
+
+- [LinkedIn](https://www.linkedin.com/in/marc-esteban)
+- [Portfolio](https://cs42a.com/marc-dev-portfolio/)
+
 ---
 
-> Building and shipping software.
+Thanks for stopping by. Feel free to explore my repositories!
